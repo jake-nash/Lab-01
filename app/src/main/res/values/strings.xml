@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleTimer</string>
+    <string name="startLabel">Start</string>
+    <string name="currTime">Time: </string>
+    <string name="timeElapsd">Time elapsed: </string>
+
 </resources>
